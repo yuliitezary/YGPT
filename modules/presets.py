@@ -43,7 +43,7 @@ CONCURRENT_COUNT = 500 # Количество пользователей, кот
 SIM_K = 5
 INDEX_QUERY_TEMPRATURE = 1.0
 
-CHUANHU_TITLE = "NeuroGPT " + VERSION
+CHUANHU_TITLE = "YGPT " + VERSION
 
 CHUANHU_DESCRIPTION = "[ℹ️ Телеграм канал проекта](https://t.me/neurogen_news) <br /> [💰 Поддержать автора](https://boosty.to/neurogen) </br>"
 

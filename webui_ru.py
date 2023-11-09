@@ -497,7 +497,7 @@ logging.info(
     + colorama.Style.RESET_ALL
 )
 
-demo.title = "NeuroGPT 🚀"
+demo.title = "YGPT 🚀"
 
 def run_gradio_server():
     loop = asyncio.new_event_loop()

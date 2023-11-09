@@ -1,5 +1,5 @@
 @echo off
-echo Opening NeuroGPT...
+echo Opening YGPT...
 
 set HIDE_OTHER_PROVIDERS=false
 set SHOW_ALL_PROVIDERS=false
@@ -40,7 +40,7 @@ IF NOT EXIST venv\Lib\site-packages\ru_core_news_sm (
 )
 
 echo Completed.
-echo Running NeuroGPT...
+echo Running YGPT...
 
 REM Determine the language of the operating system
 python -c "import locale; print(locale.getdefaultlocale()[0])" > lang.txt

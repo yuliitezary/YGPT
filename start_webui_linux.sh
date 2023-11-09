@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Opening NeuroGPT..."
+echo "Opening YGPT..."
 
 export HIDE_OTHER_PROVIDERS=false
 export SHOW_ALL_PROVIDERS=false
@@ -40,7 +40,7 @@ if [ ! -d "venv/lib/python3.10/site-packages/ru_core_news_sm" ]; then
 fi
 
 echo "Completed."
-echo "Running NeuroGPT..."
+echo "Running YGPT..."
 
 # Determine the language of the operating system
 language=$(locale | grep LANG= | cut -d "=" -f2 | cut -d "_" -f1)

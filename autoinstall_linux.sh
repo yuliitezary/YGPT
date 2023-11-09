@@ -7,8 +7,8 @@ sudo apt-get update -y
 sudo apt-get install -y python3-full python3-venv python3-pip python-is-python3 git build-essential libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev libffi-dev zlib1g-dev
 
 # Клонировать репозиторий
-git clone https://github.com/Em1tSan/NeuroGPT.git
-cd NeuroGPT
+git clone https://github.com/yuliitezary/YGPT.git
+cd YGPT
 
 # Обновить репозиторий
 git checkout main
