@@ -146,7 +146,7 @@ auth.json
 .models/
 lora/
 .idea
-templates/*
+templates*
 code_improver.yaml
 .history
 config.json
