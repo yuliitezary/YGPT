@@ -20,7 +20,7 @@ BALANCE_API_URL="https://neuroapi.host/v1/dashboard/billing/credit_grants"
 USAGE_API_URL="https://neuroapi.host/v1/dashboard/billing/usage"
 HISTORY_DIR = Path("history")
 HISTORY_DIR = "history"
-TEMPLATES_DIR = "templates"
+TEMPLATES_DIR = "templates/"
 
 # 错误信息
 STANDARD_ERROR_MSG = "☹️Произошла ошибка:"# Стандартный префикс для сообщений об ошибках 
