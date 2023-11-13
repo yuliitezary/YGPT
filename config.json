@@ -9,7 +9,7 @@
     "local_embedding": true,
     "hide_history_when_not_logged_in": false,
     "check_update": false,
-    "default_model": "gpt-3.5-turbo",
+    "default_model": "gpt-3.5-turbo-16k",
     "default_chuanhu_assistant_model": "gpt-3.5-turbo",
     "GOOGLE_CSE_ID": "",
     "GOOGLE_API_KEY": "",
